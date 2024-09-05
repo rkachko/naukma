@@ -1,0 +1,2 @@
+# naukma
+study repository
